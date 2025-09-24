@@ -49,7 +49,7 @@ The system consists of the following modules:
 5. **Hybrid Recommendation Model** – Combines outputs from all models to provide final recommendations.
 6. **Visualization & Reporting** – Uses Power BI for insights and interactive dashboards.
 
-![System Architecture](images/system-architecture.png)
+![System Architecture](https://github.com/Varshini0326/advanced-recipe-recommendation/blob/main/Image.png)
 
 ## Installation
 1. Clone the repository:  
