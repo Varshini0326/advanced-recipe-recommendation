@@ -1,0 +1,24 @@
+# Data manipulation
+pandas==1.5.3
+numpy==1.24.3
+
+# Machine Learning
+scikit-learn==1.2.2
+surprise==1.1.3  # for collaborative filtering (SVD)
+
+# Deep Learning
+tensorflow==2.14.0
+keras==2.14.0
+
+# NLP & Text Processing
+nltk==3.8.1
+scipy==1.11.1  # required for some NLP functions
+sentence-transformers==2.2.2  # optional, if you use embeddings for content-based filtering
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Utilities
+jupyter==1.0.0
